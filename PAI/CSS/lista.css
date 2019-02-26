@@ -1,0 +1,6 @@
+body{
+  background-color: #4f8686;
+}
+#ikona{
+  list-style-image: url(../img/janusz.jpg)
+}
